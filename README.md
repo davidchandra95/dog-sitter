@@ -10,7 +10,7 @@ TURBO_ENV=dev
 SESSION_SECRET=YOUR_SESSION_SECRET
 TURBO_APP_ID=123abc
 ```
-a
+
 Then run npm install from the root directory:
 
 ```
